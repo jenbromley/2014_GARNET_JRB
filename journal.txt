@@ -4,6 +4,6 @@ Title:
 Abstract:
 
 Introductions:
-Data:
-Analysis:
+Data: WIll be collected in the future
+Analysis: Once I learn how to do it
 Conclusion:
