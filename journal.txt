@@ -1,9 +1,9 @@
 Author: Jennifer Bromley and some others
-Title:
+Title: GOt a title. FACT
 
 Abstract:
 
 Introductions:
 Data:
 Analysis:
-Conclusion:
+Conclusion: Conclude stuff and shit
