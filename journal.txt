@@ -1,7 +1,7 @@
 Author: Jennifer Bromley and some others
 Title: GOt a title. FACT
 
-Abstract:
+Abstract: Git is very abstract.
 
 Introductions:
 Data: WIll be collected in the future
